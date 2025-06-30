@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # 🚨 Fast2SMS API Key (keep this safe!)
 FAST2SMS_API_KEY = "WxVtBRKApjuiNZMwomHGv1kCUl9cfOnhX8a6yY4dIJ7PTQ2zDEiA80nLbq9TFOm5WoNt6JMUKX2HGY3s"
-MOBILE_NUMBERS = "9999999999"  # <-- Replace with your actual comma-separated numbers
+MOBILE_NUMBERS = "7879115660"  # <-- Replace with your actual comma-separated numbers
 
 def fetch_gita_quote():
     try:
